@@ -1,1 +1,2 @@
 this is setting activity
+language: en ar
