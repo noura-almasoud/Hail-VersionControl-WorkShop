@@ -1,0 +1,7 @@
+this is registration activity
+user name:
+gender:
+birth date:
+email address:
+phone number:
+pass:
