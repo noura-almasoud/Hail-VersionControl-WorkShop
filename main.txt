@@ -1,1 +1,1 @@
-main activity
+this is the main activity
